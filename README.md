@@ -38,6 +38,17 @@
 
 <br />
 <br />
+<br />
+
+<details>
+ <summary>:zap: Github Stats</summary>
+
+ <img align="left" alt="mlk00's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mlk00&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+</details>
+
+<br />
+<br />
 
 [website]: https://mlk00.com
 [twitter]: https://twitter.com/mlk00__
