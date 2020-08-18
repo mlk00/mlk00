@@ -11,9 +11,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love traveling and playing video games
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="malukinho00 Spotify Playing" width="350" />](https://open.spotify.com/user/malukinho00)
-
 ### Connect with me:
 
 [<img align="left" alt="mlk00.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
