@@ -51,7 +51,7 @@
 [twitter]: https://twitter.com/mlk00__
 [youtube]: https://youtube.com/mlkoo__
 [instagram]: https://instagram.com/mlk00
-[linkedin]: https://linkedin.com/in/mlk00__
+[linkedin]: https://linkedin.com/in/marcusberaldo
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
